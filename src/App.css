@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Festive', cursive;
+  font-size:72px;
+  color : #F5FFFA
+}
