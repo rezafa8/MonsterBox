@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9919970840a5f324382d9a083cd5c0ad",
+    "revision": "7a9801a67f4481c3f8a5c66cfd1d4235",
     "url": "/MonsterBox/index.html"
   },
   {
-    "revision": "df0ac81284850462de1b",
-    "url": "/MonsterBox/static/css/main.5ce52e3c.chunk.css"
+    "revision": "07ff60d899ee24eb3f9f",
+    "url": "/MonsterBox/static/css/main.10726f9b.chunk.css"
   },
   {
     "revision": "42d8e8859104679ce821",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MonsterBox/static/js/3.fb07916a.chunk.js"
   },
   {
-    "revision": "df0ac81284850462de1b",
+    "revision": "07ff60d899ee24eb3f9f",
     "url": "/MonsterBox/static/js/main.1d67c9a3.chunk.js"
   },
   {
